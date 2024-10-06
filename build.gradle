@@ -10,6 +10,7 @@ repositories {
 }
 
 dependencies {
+    implementation("org.freemarker:freemarker-gae:2.3.33")
     implementation("org.thymeleaf:thymeleaf:3.1.2.RELEASE")
     implementation("gg.jte:jte:3.1.12")
 
